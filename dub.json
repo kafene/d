@@ -1,0 +1,10 @@
+{
+	"name": "vibe-test",
+	"description": "A simple vibe.d server application.",
+	"copyright": "Copyright © 2014, kafene software",
+	"authors": ["kafene software"],
+	"dependencies": {
+		"vibe-d": "~>0.7.19"
+	},
+	"versions": ["VibeDefaultMain"]
+}
